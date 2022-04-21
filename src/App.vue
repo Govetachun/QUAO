@@ -1,6 +1,6 @@
 <script setup>
 useHead({
-  title: 'e-shopee',
+  title: 'Vailoz em',
   meta: [
     { name: 'description', content: 'Online shopping application and e-commerce trading platform.' }, { name: 'author', content: 'https://github.com/thuongtruong1009/e-shopee' },
   ],
